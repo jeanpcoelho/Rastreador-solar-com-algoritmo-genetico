@@ -7,7 +7,7 @@
 <!-- ---------------------------------------------------------------------- -->
 
 ## 📄 Sumário
-<p align="center">
+< align="center">
  <a href="#-descrição">📝 Descrição</a> •
  <a href="#tema-e-hipotese">💡 Tema e Hipótese</a> •
  <a href="#-funcionalidades">⚙️ Funcionalidades</a> •
@@ -16,7 +16,7 @@
  <a href="#-código">💻 Código</a> • 
  <a href="#-autor">🦸 Autor</a> • 
  <a href="#-licença">📜 Licença</a>
-</p>
+</>
 
 <!-- ---------------------------------------------------------------------- -->
 <!-- DESCRIÇÃO -->
