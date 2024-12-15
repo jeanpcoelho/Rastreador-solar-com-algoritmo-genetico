@@ -1,66 +1,62 @@
 <h1 align="center"> 
-	🚧  Em contrução 🚧
+	🚧 Em construção 🚧
 </h1>
+
 # Rastreador solar com uso de algoritmo genético para otimização na captação de energia dos painéis fotovoltaicos
 
 <!-- ---------------------------------------------------------------------- -->
 
-<!-- Sumario -->
+## 📄 Sumário
 <p align="center">
  <a href="#-descrição">Descrição</a> •
- <a href="#-Tema-e-Hipotese">Tema e Hipotese</a> •
- <a href="#-Funcionalidades">Funcionalidades</a> •
- <a href="#-Componetes-Utilizados">Componetes Utilizados</a> • 
- <a href="#-Sobre-o-Codigo">Sobre o Codigo</a> • 
- <a href="#-Codigo">Codigo</a> • 
+ <a href="#tema-e-hipótese">Tema e Hipótese</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-componentes-utilizados">Componentes Utilizados</a> • 
+ <a href="#-sobre-o-código">Sobre o Código</a> • 
+ <a href="#-código">Código</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-licença">Licença</a>
 </p>
 
 <!-- ---------------------------------------------------------------------- -->
 <!-- DESCRIÇÃO -->
 ## 📄 Descrição
 Este projeto busca criar uma solução para otimizar a captação de energia solar em painéis fotovoltaicos utilizando algoritmos genéticos aplicados a rastreadores solares. A proposta visa melhorar a eficiência energética ajustando automaticamente a posição dos painéis ao longo do dia, alinhando-os com a posição calculada do Sol. Dessa forma, busca-se superar as limitações dos rastreadores convencionais, como altos custos, manutenção frequente e falhas em sensores, maximizando a geração de energia com menor complexidade tecnológica e maior sustentabilidade.
-<!-- ---------------------------------------------------------------------- -->
-<!-- tema e hipotese -->
-## Tema e Hipotese
-### USO DO ALGORITMO GENÉTICO PARA OTIMIZAÇÃO NA CAPTAÇÃO DE ENERGIA DOS PAINÉIS FOTOVOLTAICOS ATRAVÉS DE RASTREADOR SOLAR
 
 <!-- ---------------------------------------------------------------------- -->
+<!-- TEMA E HIPÓTESE -->
+## 📄 Tema e Hipótese
+### Uso do Algoritmo Genético para Otimização na Captação de Energia dos Painéis Fotovoltaicos através de Rastreador Solar
 
-<!-- Funcionalidades -->
+<!-- ---------------------------------------------------------------------- -->
+<!-- FUNCIONALIDADES -->
 ## 📄 Funcionalidades
+_Em construção._
+
 <!-- ---------------------------------------------------------------------- -->
-<!-- Componetes Utilizados -->
-## 📄 Componetes Utilizados
+<!-- COMPONENTES UTILIZADOS -->
+## 📄 Componentes Utilizados
+_Em construção._
+
 <!-- ---------------------------------------------------------------------- -->
-<!-- Sobre o Codigo -->
-## 📄 Sobre o Codigo
+<!-- SOBRE O CÓDIGO -->
+## 📄 Sobre o Código
+_Em construção._
+
 <!-- ---------------------------------------------------------------------- -->
-<!-- Codigo -->
-## 📄 Codigo
+<!-- CÓDIGO -->
+## 📄 Código
+_Em construção._
+
 <!-- ---------------------------------------------------------------------- -->
-<!--AUTOR-->
+<!-- AUTOR -->
 ## 🦸 Autor
-Jean Pereira Coelho
-Contato: jeanpc0018@gmail.com
+Jean Pereira Coelho  
+[jeanpc0018@gmail.com](mailto:jeanpc0018@gmail.com)
+
 <!-- ---------------------------------------------------------------------- -->
-<!--LICENÇA -->
+<!-- LICENÇA -->
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito por : Jean Pereira Coelho
-
-
-
-
-
-
-
-
-
-
-
-
-
+Este projeto está sob a licença [MIT](./LICENSE).  
+Feito por: Jean Pereira Coelho
