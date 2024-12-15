@@ -7,14 +7,14 @@
 <!-- ---------------------------------------------------------------------- -->
 
 ## 📄 Sumário
-- [📝 Descrição](#descrição)
-- [💡 Tema e Hipótese](#tema-e-hipótese)
-- [⚙️ Funcionalidades](#funcionalidades)
-- [🔧 Componentes Utilizados](#componentes-utilizados)
-- [📂 Sobre o Código](#sobre-o-código)
-- [💻 Código](#código)
-- [🦸 Autor](#autor)
-- [📜 Licença](#licença)
+- [📝 Descrição](#-descrição)
+- [💡 Tema e Hipótese](#-tema-e-hipótese)
+- [⚙️ Funcionalidades](#-funcionalidades)
+- [🔧 Componentes Utilizados](#-componentes-utilizados)
+- [📂 Sobre o Código](#-sobre-o-código)
+- [💻 Código](#-código)
+- [🦸 Autor](#-autor)
+- [📜 Licença](#-licença)
 
 <!-- ---------------------------------------------------------------------- -->
 
