@@ -9,7 +9,7 @@
 ## 📄 Sumário
 <p align="center">
  <a href="#-descrição">Descrição</a> •
- <a href="#tema-e-hipótese">Tema e Hipótese</a> •
+ <a href="#tema-e-hipotese">Tema e Hipótese</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-componentes-utilizados">Componentes Utilizados</a> • 
  <a href="#-sobre-o-código">Sobre o Código</a> • 
