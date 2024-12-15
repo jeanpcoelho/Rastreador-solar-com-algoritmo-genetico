@@ -11,7 +11,7 @@ Sobre o Codigo
 
 <!-- Sumario -->
 <p align="center">
- <a href="#-Descrição">Descrição do Entregável</a> •
+ <a href="#-Descrição">Descrição</a> •
  <a href="#-Tema e Hipotese">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-Escopo do Projeto">Layout</a> • 
