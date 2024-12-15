@@ -8,7 +8,7 @@
 
 ## 📄 Sumário
 - [📝 Descrição](#-descrição)
-- [💡 Tema e Hipótese](#tema-e-hipotese)
+- [💡 Tema e Hipótese](#-tema-e-hipotese)
 - [⚙️ Funcionalidades](#-funcionalidades)
 - [🔧 Componentes Utilizados](#-componentes-utilizados)
 - [📂 Sobre o Código](#-sobre-o-código)
