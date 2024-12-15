@@ -21,8 +21,15 @@
 <!-- DESCRIÇÃO -->
 ## 📄 Descrição
 
+<!--AUTOR-->
+## 🦸 Autor
 
+<!--LICENÇA -->
+## 📝 Licença
 
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito por 
 
 
 
