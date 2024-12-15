@@ -2,21 +2,17 @@
 	🚧  Em contrução 🚧
 </h1>
 # Rastreador solar com uso de algoritmo genético para otimização na captação de energia dos painéis fotovoltaicos
-## Sumario:
-Descriçao
-Tema e Hipotese
-Escopo do Projeto
-Sobre o Codigo
+
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- Sumario -->
 <p align="center">
- <a href="#-Descrição">Descrição</a> •
- <a href="#-Tema e Hipotese">Sobre</a> •
+ <a href="#-descrição">Descrição</a> •
+ <a href="#-tema e hipotese">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-Escopo do Projeto">Layout</a> • 
- <a href="#-Sobre o Codigo">Como executar</a> • 
- <a href="#-Codigo">Tecnologias</a> • 
+ <a href="#-escopo do projeto">Escopo do Projeto</a> • 
+ <a href="#-sobre o codigo">Sobre o Codigo</a> • 
+ <a href="#-codigo">Codigo</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
