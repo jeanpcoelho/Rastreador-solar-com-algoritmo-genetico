@@ -8,14 +8,14 @@
 
 ## 📄 Sumário
 <p align="center">
- <a href="#-descrição">Descrição</a> •
- <a href="#tema-e-hipotese">Tema e Hipotese</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-componentes-utilizados">Componentes Utilizados</a> • 
- <a href="#-sobre-o-código">Sobre o Código</a> • 
- <a href="#-código">Código</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-descrição">📝 Descrição</a> •
+ <a href="#tema-e-hipotese">💡 Tema e Hipótese</a> •
+ <a href="#-funcionalidades">⚙️ Funcionalidades</a> •
+ <a href="#-componentes-utilizados">🔧 Componentes Utilizados</a> • 
+ <a href="#-sobre-o-código">📂 Sobre o Código</a> • 
+ <a href="#-código">💻 Código</a> • 
+ <a href="#-autor">🦸 Autor</a> • 
+ <a href="#-licença">📜 Licença</a>
 </p>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -25,27 +25,27 @@ Este projeto busca criar uma solução para otimizar a captação de energia sol
 
 <!-- ---------------------------------------------------------------------- -->
 <!-- TEMA E HIPOTESE -->
-## 📄 Tema e Hipotese
+## 💡 Tema e Hipótese
 ### Uso do Algoritmo Genético para Otimização na Captação de Energia dos Painéis Fotovoltaicos através de Rastreador Solar
 
 <!-- ---------------------------------------------------------------------- -->
 <!-- FUNCIONALIDADES -->
-## 📄 Funcionalidades
+## ⚙️ Funcionalidades
 _Em construção._
 
 <!-- ---------------------------------------------------------------------- -->
 <!-- COMPONENTES UTILIZADOS -->
-## 📄 Componentes Utilizados
+## 🔧 Componentes Utilizados
 _Em construção._
 
 <!-- ---------------------------------------------------------------------- -->
 <!-- SOBRE O CÓDIGO -->
-## 📄 Sobre o Código
+## 📂 Sobre o Código
 _Em construção._
 
 <!-- ---------------------------------------------------------------------- -->
 <!-- CÓDIGO -->
-## 📄 Código
+## 💻 Código
 _Em construção._
 
 <!-- ---------------------------------------------------------------------- -->
