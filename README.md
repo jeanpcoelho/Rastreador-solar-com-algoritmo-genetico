@@ -9,7 +9,7 @@
 ## 📄 Sumário
 - [📝 Descrição](#-descrição)
 - [💡 Tema e Hipótese](#-tema-e-hipótese)
-- [⚙️ Funcionalidades](#-Funcionalidades)
+- [⚙ Funcionalidades](#-Funcionalidades)
 - [🔧 Componentes Utilizados](#-componentes-utilizados)
 - [📂 Sobre o Código](#-sobre-o-código)
 - [💻 Código](#-código)
@@ -28,7 +28,7 @@ Este projeto busca criar uma solução para otimizar a captação de energia sol
 
 <!-- ---------------------------------------------------------------------- -->
 
-## ⚙️ Funcionalidades
+## ⚙ Funcionalidades
 _Em construção._
 
 <!-- ---------------------------------------------------------------------- -->
