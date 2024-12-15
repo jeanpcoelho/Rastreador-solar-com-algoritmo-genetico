@@ -8,7 +8,7 @@
 <!-- Sumario -->
 <p align="center">
  <a href="#-descrição">Descrição</a> •
- <a href="#-tema e hipotese">Tema e Hipotese</a> •
+ <a href="#-tema-e-hipotese">Tema e Hipotese</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-escopo do projeto">Escopo do Projeto</a> • 
  <a href="#-sobre o codigo">Sobre o Codigo</a> • 
@@ -30,7 +30,7 @@ Atualmente, a maioria dos países, incluindo o Brasil, depende dos combustíveis
 <!--AUTOR-->
 ## 🦸 Autor
 Jean Pereira Coelho
-Contato:jeanpc0018@gmail.com
+Contato: jeanpc0018@gmail.com
 <!--LICENÇA -->
 ## 📝 Licença
 
