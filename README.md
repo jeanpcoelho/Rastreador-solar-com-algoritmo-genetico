@@ -62,7 +62,16 @@ Display Lcd 16x2 com modulo serial I2C<br/>
 <!-- ---------------------------------------------------------------------- -->
 
 ## 📂 Sobre o Código
-_Em construção._
+<servo.h >   Controla servo motor.<br/>
+
+< SD.h> Gerencia o módulo de cartão SD para salvar dados.<br/>
+
+< RTClib.h> Utilizado para obter data e hora de um módulo RTC (Real-Time Clock).<br/>
+
+< Wire.h> gerenciar a comunicação entre dispositivos através do protocolo I2C.<br/>
+
+<LiquidCrystal_I2C.h>: Controla um display LCD via interface I2C.<br/>
+
 
 <!-- ---------------------------------------------------------------------- -->
 
