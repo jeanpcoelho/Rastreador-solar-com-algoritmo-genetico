@@ -29,12 +29,35 @@ Este projeto busca criar uma solução para otimizar a captação de energia sol
 <!-- ---------------------------------------------------------------------- -->
 
 ## ⚙ Funcionalidades
-_Em construção._
+A placa solar deve se inclinar em direção ao sol com o intuito de gerar a maior quantidade de energia possível.
+posição inicial leste com inclinação de “ ”
+posição final oeste com inclinação de “ ”
+A angulação/movimento da placa fotovoltaica será calculado pelo algoritmo genético onde definirá qual ângulo em cada horário irá gerar maior captação de energia e fazer a movimentação de acordo com o horário.
+Os dados de dia e hora serão definidos pelo módulo rtc.
+A leitura de tensão da placa fotovoltaica será feita por um sensor de tensão .
+A leitura da corrente da placa fotovoltaica será feita por um sensor de corrente. 
+A gravação dos dados de captação de energia serão gravados pelo leitor de cartão SD salvando dados como data, hora,voltagem , corrente,potência,  e ângulo do servo.
+exemplo: 06/12/2024 14:35:20 - Voltagem: 12.5 V, Corrente: 3.7 A, Potenciar: 45.3 W, Ângulo: 90 graus
+Utilizarei um Display Lcd 16x2  para mostrar as informações Primeira linha (Data e Hora), Segunda linha (Voltagem, Corrente, Potência e Ângulo).
+exemplo:
+linha 1 = DD/MM HH:MM
+linha 2= V: 5.00 I: 0.35 P: 1.75 A: 45
+V = voltagem/tensão, I = corrente/Amperes ,P=Watt/Potência sendo, (P = V × I ), A = ângulo servo motor
+
 
 <!-- ---------------------------------------------------------------------- -->
 
 ## 🔧 Componentes Utilizados
-_Em construção._
+Arduino uno
+Placa solar fotovoltaica
+Servo motor
+Sensor de tensão
+Sensor de corrente acs712
+Leitor de cartão micro SD
+Módulo Rtc Ds1307
+Jumper
+Display Lcd 16x2 com modulo serial I2C
+
 
 <!-- ---------------------------------------------------------------------- -->
 
