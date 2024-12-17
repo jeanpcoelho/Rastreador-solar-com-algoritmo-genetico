@@ -29,7 +29,7 @@ Este projeto busca criar uma solução para otimizar a captação de energia sol
 <!-- ---------------------------------------------------------------------- -->
 
 ## ⚙ Funcionalidades
-A placa solar deve se inclinar em direção ao sol com o intuito de gerar a maior quantidade de energia possível./**
+A placa solar deve se inclinar em direção ao sol com o intuito de gerar a maior quantidade de energia possível.\**
 posição inicial leste com inclinação de “ ”
 posição final oeste com inclinação de “ ”
 A angulação/movimento da placa fotovoltaica será calculado pelo algoritmo genético onde definirá qual ângulo em cada horário irá gerar maior captação de energia e fazer a movimentação de acordo com o horário.
