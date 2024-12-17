@@ -62,6 +62,19 @@ Display Lcd 16x2 com modulo serial I2C<br/>
 <!-- ---------------------------------------------------------------------- -->
 
 ## 📂 Sobre o Código
+O codigo tem como principal funcionalidade Monitorar e otimizar a geração de energia atraves do controle do ângulo do servo motor . Essa otimização é realizada por meio de um algoritmo genético (AG), que ajusta iterativamente o ângulo do servo motor de forma a maximizar a potência elétrica gerada. O sistema também registra continuamente os dados de tensão, corrente, potência e ângulo no cartão SD, enquanto exibe essas informações em tempo real em um display LCD.<br/>
+Detalhes do Algoritmo Genético Utilizado
+O algoritmo genético implementado no código é responsável por encontrar o melhor ângulo do servo motor que maximiza a potência elétrica gerada. Ele é inspirado no processo de evolução natural, e sua aplicação ocorre da seguinte maneira:<br/>
+Geração Inicial (População):O AG cria uma população inicial de ângulos aleatórios entre 0° e 180°.Cada ângulo representa um possível candidato para a otimização.<br/>
+Avaliação de Aptidão (Fitness):A aptidão de cada ângulo é calculada medindo a potência elétrica gerada quando o servo motor é ajustado para aquele ângulo.
+A potência elétrica é obtida a partir da fórmula 𝑃=𝑉×𝐼P=V×I, onde 
+𝑉
+V é a tensão e 
+𝐼
+I é a corrente medida pelos sensores.
+
+
+
 <servo.h >   Controla servo motor.<br/>
 
 < SD.h> Gerencia o módulo de cartão SD para salvar dados.<br/>
