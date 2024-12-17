@@ -81,7 +81,7 @@ Ao final das gerações, o melhor ângulo identificado pelo AG é usado para con
 
 < RTClib.h> Utilizado para obter data e hora de um módulo RTC (Real-Time Clock).<br/>
 
-< Wire.h> gerenciar a comunicação entre dispositivos através do protocolo I2C.<br/>
+< Wire.h> Gerenciar a comunicação entre dispositivos através do protocolo I2C.<br/>
 
 <LiquidCrystal_I2C.h>: Controla um display LCD via interface I2C.<br/>
 
