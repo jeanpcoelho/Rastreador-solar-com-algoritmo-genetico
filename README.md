@@ -62,6 +62,8 @@ Display Lcd 16x2 com modulo serial I2C<br/>
 <!-- ---------------------------------------------------------------------- -->
 
 ## 📂 Sobre o Código
+**Texto em negrito**  
+__Texto em negrito__
 O codigo tem como principal funcionalidade Monitorar e otimizar a geração de energia atraves do controle do ângulo do servo motor . <br/>
 Essa otimização é realizada por meio de um algoritmo genético (AG), que ajusta iterativamente o ângulo do servo motor de forma a maximizar a potência elétrica gerada.<br/>
 O sistema também registra continuamente os dados de tensão, corrente, potência e ângulo no cartão SD, enquanto exibe essas informações em tempo real em um display LCD.<br/>
