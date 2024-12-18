@@ -49,7 +49,7 @@ V = voltagem/tensão, I = corrente/Amperes ,P=Watt/Potência sendo, (P = V × I 
 
 ## 🔧 Componentes Utilizados
 Arduino uno<br/>
-Placa solar fotovoltaica<br/>
+Mini Placa solar fotovoltaica<br/>
 Servo motor<br/>
 Sensor de tensão<br/>
 Sensor de corrente acs712<br/>
