@@ -70,11 +70,11 @@ Detalhes do Algoritmo Genético Utilizado:<br/>
 O algoritmo genético implementado no código é responsável por encontrar o melhor ângulo do servo motor que maximiza a potência elétrica gerada.<br/>
 Ele é inspirado no processo de evolução natural, e sua aplicação ocorre da seguinte maneira:<br/>
 __Geração Inicial (População):__ O AG cria uma população inicial de ângulos aleatórios entre 0° e 180° cada ângulo representa um possível candidato para a otimização.<br/>
-**Avaliação de Aptidão (Fitness):** A aptidão de cada ângulo é calculada medindo a potência elétrica gerada quando o servo motor é ajustado para aquele ângulo,
-a potência elétrica é obtida a partir da fórmula 𝑃=𝑉×𝐼, onde 𝑉 é a tensão e 𝐼 é a corrente medida pelos sensores.<br/>
-Seleção: Os dois ângulos que geram as maiores potências são selecionados como os "melhores indivíduos" da geração atual.<br/>
-**Reprodução com Mutação:** Os ângulos selecionados são combinados (usando a média dos valores) para gerar a próxima geração.
-Pequenas variações (mutações) são adicionadas aleatoriamente aos ângulos para explorar novas possibilidades e evitar que o AG fique preso em máximos locais.
+**Avaliação de Aptidão (Fitness):** A aptidão de cada ângulo é calculada medindo a potência elétrica gerada quando o servo motor é ajustado para aquele ângulo.<br/>
+A potência elétrica é obtida a partir da fórmula 𝑃=𝑉×𝐼, onde 𝑉 é a tensão e 𝐼 é a corrente medida pelos sensores.<br/>
+**Seleção:**  Os dois ângulos que geram as maiores potências são selecionados como os "melhores indivíduos" da geração atual.<br/>
+**Reprodução com Mutação:** Os ângulos selecionados são combinados (usando a média dos valores) para gerar a próxima geração.<br/>
+Pequenas variações (mutações) são adicionadas aleatoriamente aos ângulos para explorar novas possibilidades e evitar que o AG fique preso em máximos locais.<br/>
 Iteração:Este ciclo de avaliação, seleção e reprodução é repetido por um número fixo de gerações (definido como 50 no código).
 Ao final das gerações, o melhor ângulo identificado pelo AG é usado para controlar o servo motor.<br/>
 
