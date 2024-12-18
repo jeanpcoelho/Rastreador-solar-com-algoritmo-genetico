@@ -75,7 +75,7 @@ A potência elétrica é obtida a partir da fórmula 𝑃=𝑉×𝐼, onde 𝑉 
 **Seleção:**  Os dois ângulos que geram as maiores potências são selecionados como os "melhores indivíduos" da geração atual.<br/>
 **Reprodução com Mutação:** Os ângulos selecionados são combinados (usando a média dos valores) para gerar a próxima geração.<br/>
 Pequenas variações (mutações) são adicionadas aleatoriamente aos ângulos para explorar novas possibilidades e evitar que o AG fique preso em máximos locais.<br/>
-Iteração:Este ciclo de avaliação, seleção e reprodução é repetido por um número fixo de gerações (definido como 50 no código).
+**Iteração:** Este ciclo de avaliação, seleção e reprodução é repetido por um número fixo de gerações (definido como 50 no código).
 Ao final das gerações, o melhor ângulo identificado pelo AG é usado para controlar o servo motor.<br/>
 
 ### Bibliotecas Utilizadas:
